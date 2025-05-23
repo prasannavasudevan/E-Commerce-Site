@@ -109,4 +109,3 @@ Enhanced analytics for user and sales tracking
 🙌 Acknowledgements
 Thanks to the open-source community for providing great tools and resources. This project is inspired by real-world e-commerce workflows and built for educational and demonstration purposes.
 
-📝 License
