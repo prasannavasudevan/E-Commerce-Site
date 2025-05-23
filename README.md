@@ -14,7 +14,7 @@ A full-stack modern e-commerce web application built with the MERN (MongoDB, Exp
 
 ## 🚀 Live Demo
 
-Check out the live version of the site here: [E-Commerce Live Site]((https://e-commerce-site-frontend-ten.vercel.app/))
+Check out the live version of the site here: [E-Commerce Live Site](https://e-commerce-site-frontend-ten.vercel.app/)
 
 🚀 Features
 🔐 User Authentication – Sign up and login with secure password hashing using bcrypt and token-based authentication with JWT.
