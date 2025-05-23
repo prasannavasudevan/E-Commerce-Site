@@ -2,6 +2,20 @@
 
 A full-stack modern e-commerce web application built with the MERN (MongoDB, Express, React, Node.js) stack. The platform allows users to browse products, manage a cart, place orders, and handle secure authentication.
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Screenshot_20250428_124903](https://github.com/user-attachments/assets/3cf85025-63fe-4fd9-bb17-fe614a8768cf)
+
+
+### 🛒 Product Page
+![Screenshot_20250428_121056](https://github.com/user-attachments/assets/762a8a1f-2274-4b03-8fe9-2448f71a3de5)
+
+
+## 🚀 Live Demo
+
+Check out the live version of the site here: [E-Commerce Live Site]((https://e-commerce-site-frontend-ten.vercel.app/))
+
 🚀 Features
 🔐 User Authentication – Sign up and login with secure password hashing using bcrypt and token-based authentication with JWT.
 
