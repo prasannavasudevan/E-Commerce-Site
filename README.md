@@ -1,4 +1,5 @@
 🛒 E-Commerce Site
+
 A full-stack modern e-commerce web application built with the MERN (MongoDB, Express, React, Node.js) stack. The platform allows users to browse products, manage a cart, place orders, and handle secure authentication.
 
 🚀 Features
